@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/kali/sendit/development'
+let g:netrw_dirhist_3='/home/kali/sendit'
+let g:netrw_dirhist_2='/home/kali/sendit/sendit'
+let g:netrw_dirhist_1='/home/kali/sendit/sendit/handlers'
